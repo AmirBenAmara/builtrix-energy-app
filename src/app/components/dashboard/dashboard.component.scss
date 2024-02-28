@@ -1,0 +1,18 @@
+.example-container {
+    height: 100%;
+    background-image: url('../../../assets/images/background1.jpg');
+    color: white;
+}
+.content {
+    padding: 20px;
+}
+mat-toolbar {
+    background: rgba(0,0,0,0.1);
+    color: white;
+}
+a {
+    color: white;
+}
+mat-icon {
+    margin-right: 5px;
+}

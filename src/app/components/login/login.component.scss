@@ -1,0 +1,24 @@
+.login-container {
+    background-image: url('../../../assets/images/background1.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.example-card {
+    width: 450px; /* Corrected typo */
+    padding: 20px;
+    display: flex; /* Add this to enable flex container */
+    flex-direction: column; /* Stack children vertically */
+    align-items: center; /* Center-align the flex items */
+}
+
+.full-width-input {
+    width: 100%; /* Ensure inputs take full width */
+}
+
+.button-container {
+    width: 100%; /* Take full width to center the button */
+    display: flex;
+    justify-content: center; /* Center-align the button */
+    margin-top: 20px; /* Optional: Add some space above the button */
+}

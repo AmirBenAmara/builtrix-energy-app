@@ -1,0 +1,19 @@
+<div class="login-container">
+    <div class="d-flex justify-content-center align-items-center" style="min-height: 100vh;">
+        <mat-card class="example-card">
+                <mat-form-field class="full-width-input">
+                    <mat-label>Username</mat-label>
+                    <input matInput placeholder="Username" [(ngModel)]="username">
+                </mat-form-field>
+                <mat-form-field class="full-width-input">
+                    <mat-label>Password</mat-label>
+                    <input matInput type="password" placeholder="Password" [(ngModel)]="password">
+                </mat-form-field>
+                <div class="button-container">
+                    <button mat-raised-button color="primary" (click)="login()">Login</button>
+                </div>
+                <div><span style="color:red">{{errMsg}}</span></div>
+            
+        </mat-card>
+    </div>
+</div>
