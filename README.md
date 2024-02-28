@@ -2,9 +2,19 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.1.
 
+# requirements 
+
+Node js 14.x or higher 
+
+# Getting started 
+
+Run `npm install` to install project dependencies 
+Run `npm start` and browse the project on `http://localhost:4200/`
+make sure the backend `backend-energy-app` is running with nodejs and MongoDB
+
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Run `npm start` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
 ## Code scaffolding
 
