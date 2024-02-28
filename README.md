@@ -27,10 +27,10 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
 login page 
-![Project Screenshot](/images/login.png)
+![Project Screenshot](./src/assets/images/login.png)
 
 Map Buildings page 
-![Project Screenshot](/images/map.png)
+![Project Screenshot](./src/assets/images/map.png)
 
 Consumption Bar Chart page 
-![Project Screenshot](/images/chat.png)
+![Project Screenshot](./src/assets/images/chat.png)
